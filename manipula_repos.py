@@ -48,6 +48,6 @@ nome_repo = 'linguagens-repositorios-empresas'
 novo_repo.cria_repo(nome_repo)
 
 # Adicionando arquivos salvos no repositorio criado
-novo_repo.add_arquivo(nome_repo, 'linguagens_amzn.csv', 'C:/Users/HugoD/OneDrive/Documentos/HugoDuran/Estudos/Alura/Eng_Dados/Python/2.Requests/projeto_requests/dados/linguagens_amzn.csv')
-novo_repo.add_arquivo(nome_repo, 'linguagens_netflix.csv', 'C:/Users/HugoD/OneDrive/Documentos/HugoDuran/Estudos/Alura/Eng_Dados/Python/2.Requests/projeto_requests/dados/linguagens_netflix.csv')
-novo_repo.add_arquivo(nome_repo, 'linguagens_spotify.csv', 'C:/Users/HugoD/OneDrive/Documentos/HugoDuran/Estudos/Alura/Eng_Dados/Python/2.Requests/projeto_requests/dados/linguagens_spotify.csv')
+novo_repo.add_arquivo(nome_repo, 'linguagens_amzn.csv', 'dados/linguagens_amzn.csv')
+novo_repo.add_arquivo(nome_repo, 'linguagens_netflix.csv', 'dados/linguagens_netflix.csv')
+novo_repo.add_arquivo(nome_repo, 'linguagens_spotify.csv', 'dados/linguagens_spotify.csv')
