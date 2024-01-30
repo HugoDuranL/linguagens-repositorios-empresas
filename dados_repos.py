@@ -73,6 +73,6 @@ ling_mais_usadas_spotify = spotify_rep.cria_df_linguagens()
 
 # Salvando os dados
 
-ling_mais_usadas_amzn.to_csv('C:/Users/HugoD/OneDrive/Documentos/HugoDuran/Estudos/Alura/Eng_Dados/Python/2.Requests/projeto_requests/dados/linguagens_amzn.csv')
-ling_mais_usadas_netflix.to_csv('C:/Users/HugoD/OneDrive/Documentos/HugoDuran/Estudos/Alura/Eng_Dados/Python/2.Requests/projeto_requests/dados/linguagens_netflix.csv')
-ling_mais_usadas_spotify.to_csv('C:/Users/HugoD/OneDrive/Documentos/HugoDuran/Estudos/Alura/Eng_Dados/Python/2.Requests/projeto_requests/dados/linguagens_spotify.csv')
+ling_mais_usadas_amzn.to_csv('dados/linguagens_amzn.csv')
+ling_mais_usadas_netflix.to_csv('dados/linguagens_netflix.csv')
+ling_mais_usadas_spotify.to_csv('dados/linguagens_spotify.csv')
